@@ -29,7 +29,7 @@
     "@yarnpkg/plugin-npm": "workspace:^",
     "@yarnpkg/plugin-npm-cli": "2.1.0",
     "@yarnpkg/plugin-pack": "workspace:^",
-    "@yarnpkg/plugin-patch": "workspace:^",
+    "@yarnpkg/plugin-patch": "2.1.0",
     "@yarnpkg/plugin-pnp": "2.1.0",
     "@yarnpkg/plugin-pnpm": "1.0.0",
     "@yarnpkg/plugin-stage": "2.1.0",

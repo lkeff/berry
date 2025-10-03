@@ -27,7 +27,7 @@
     "@yarnpkg/libzip": "workspace:^",
     "@yarnpkg/monorepo": "workspace:^",
     "@yarnpkg/parsers": "workspace:^",
-    "@yarnpkg/pnpify": "workspace:^",
+    "@yarnpkg/pnpify": "2.1.0",
     "@yarnpkg/sdks": "2.5.0",
     "@yarnpkg/shell": "2.1.0",
     "algoliasearch": "^4.14.2",

@@ -26,7 +26,7 @@
     "@yarnpkg/fslib": "workspace:^",
     "@yarnpkg/libzip": "workspace:^",
     "@yarnpkg/monorepo": "workspace:^",
-    "@yarnpkg/parsers": "workspace:^",
+    "@yarnpkg/parsers": "2.1.0",
     "@yarnpkg/pnpify": "2.1.0",
     "@yarnpkg/sdks": "2.5.0",
     "@yarnpkg/shell": "2.1.0",
